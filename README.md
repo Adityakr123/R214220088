@@ -1,2 +1,2 @@
 # R214220088
-screenshorts are inside backend/output/
+screenshorts are inside backend/output_ss/
